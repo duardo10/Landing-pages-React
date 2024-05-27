@@ -15,5 +15,5 @@ export const Template = (args) => {
         <div>
             <GridTwoColum {...args} />
         </div>
-    );
+    ); /**/
 }
